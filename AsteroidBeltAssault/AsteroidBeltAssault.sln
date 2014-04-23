@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidBeltAssault", "AsteroidBeltAssault\AsteroidBeltAssault\AsteroidBeltAssault.csproj", "{3CC5206D-D8FA-486D-9CC4-4A630A87E3D3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AsteroidBeltAssaultContent", "AsteroidBeltAssault\AsteroidBeltAssaultContent\AsteroidBeltAssaultContent.contentproj", "{700108F8-6BC5-449B-9ED1-EC1B507931AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC5206D-D8FA-486D-9CC4-4A630A87E3D3}.Debug|x86.ActiveCfg = Debug|x86
+		{3CC5206D-D8FA-486D-9CC4-4A630A87E3D3}.Debug|x86.Build.0 = Debug|x86
+		{3CC5206D-D8FA-486D-9CC4-4A630A87E3D3}.Release|x86.ActiveCfg = Release|x86
+		{3CC5206D-D8FA-486D-9CC4-4A630A87E3D3}.Release|x86.Build.0 = Release|x86
+		{700108F8-6BC5-449B-9ED1-EC1B507931AB}.Debug|x86.ActiveCfg = Debug|x86
+		{700108F8-6BC5-449B-9ED1-EC1B507931AB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
